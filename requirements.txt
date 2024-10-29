@@ -1,0 +1,11 @@
+telethon
+toml
+rich
+youtube-dl
+py-tgcalls
+ffmpeg-python
+gitpython
+phonenumbers
+pyrogram
+tgcrypto
+python-socks[asyncio]
